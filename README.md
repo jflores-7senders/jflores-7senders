@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jflores-7senders
+- 👀 I’m interested in PHP, Videogame Programming and chocolate.
+- 🌱 I’m currently learning Unreal Engine and C++.
+- 💞️ I’m looking to collaborate on Symfony and PHP.
